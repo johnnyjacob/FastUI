@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 path = "fastui/__init__.py"
 
 [project]
-name = "fastui"
+name = "fastui-dev"
 description = "Build better UIs faster."
 authors = [{ name = "Samuel Colvin", email = "s@muelcolvin.com" }]
 license = "MIT"
