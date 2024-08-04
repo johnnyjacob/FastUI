@@ -2,7 +2,7 @@
 name = "fastui"
 description = "Build better UIs faster."
 authors = [{ name = "Samuel Colvin", email = "s@muelcolvin.com" }]
-license = "MIT"
+license = {text = "MIT"}
 readme = "README.md"
 classifiers = [
     "Development Status :: 4 - Beta",
